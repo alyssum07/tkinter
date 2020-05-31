@@ -1,0 +1,22 @@
+#installation required to run the code 
+install nodejs - https://nodejs.org/en/download/
+install python - https://www.python.org/downloads/
+
+#download these files
+pip install twilio
+pip install prettytable
+pip install pandas
+pip install xlsxwriter
+pip install openpyxl
+
+#account
+www.twilio.com
+create an account
+
+#on cmd
+npm install twilio-cli -g
+twilio login
+make your shorthand
+and get your account SID and auth token 
+
+copy your account SID, auth token and twilio number in the sms.py file
